@@ -9,7 +9,7 @@ module.exports = {
 	},
 };
 eggs={
-	"002153":"Press ctrl-T in the flash to activate/deactivate.",
+	"002153":"Press ctrl-T in the flash to activate/deactivate. Click on the house's chimney to find a secret area.",
 	"002297":"Press ctrl-T in the flash and enter code 024913 to activate.",
 	"002838":"Click the link in the corner at the end to activate.",
 	"004692":"Press ctrl-T in the flash to activate; exit room to deactivate.",
